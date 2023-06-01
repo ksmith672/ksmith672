@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Korben
+- 👀 I’m interested in programming and looking to vastly increase my knowledge.
+- 🌱 I’m currently learning Python🐍
+- 📫 Reach me via email - folksrust@gmail.com
