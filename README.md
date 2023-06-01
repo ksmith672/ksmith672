@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Korben
+- 👋 Hi, I’m Korben based in Northern Ireland!
 - 👀 I’m interested in programming and looking to vastly increase my knowledge.
 - 🌱 I’m currently learning Python🐍
 - 📫 Reach me via email - folksrust@gmail.com
